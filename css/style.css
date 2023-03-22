@@ -1,0 +1,24 @@
+/* header styles */
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.nav-li-item{
+    display: inline-block;
+    margin-right: 30px;
+}
+.logo{
+    vertical-align: middle;
+    margin-right: 150px;
+}
+.header-wraper{
+    background-color: lightblue;
+    padding: 69px 0 69px 162px ;
+}
+.nav-a-item{
+    color: #274C5B;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
