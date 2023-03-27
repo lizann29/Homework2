@@ -22,3 +22,45 @@
     font-family: 'Roboto', sans-serif;
 
 }
+.banner-image{
+    width: 100%;
+}
+.banner-image-2{
+    width: 1400px;
+    height: 934px;
+    margin: 182px 280px 78px 280px;
+}
+.container{
+    margin: 0 492px 97px 492px;
+}
+.title{
+    width: 517px;
+    height: 59px;
+    color: #274C5B;    
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.description{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+color: #525C60;
+}
+.first-box{
+    margin: 70px 0 28px 0;
+}
+.first-box-left{
+    display: inline-block;
+    width: 476px;
+    height: 357px;
+    border-radius: 25%;
+}
+.first-box-right{
+    display: inline-block;
+    width: 400px;
+    height: 252px;
+    background-color: #F9F8F8;
+}
+.description-box{
+    width: 447px;
+    height: 90px;
+}
